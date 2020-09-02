@@ -1,3 +1,6 @@
+# csv file too big
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
